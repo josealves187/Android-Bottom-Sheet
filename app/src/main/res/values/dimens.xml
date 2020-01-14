@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <dimen name="margin_refused">14dp</dimen>
+
+
+    <!-- text tamanho padrão -->
+    <dimen name="margin_defaul_text">16sp</dimen>
+    <dimen name="text_size_questions">16sp</dimen>
+    <dimen name="text_size_defaul">10sp</dimen>
+    <dimen name="text_size_8">8sp</dimen>
+    <dimen name="margin_top">18dp</dimen>
+    <dimen name="margin_end">18dp</dimen>
+    <dimen name="margin_defaul">18dp</dimen>
+    <dimen name="margin_defaul_total">8dp</dimen>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+
+</resources>

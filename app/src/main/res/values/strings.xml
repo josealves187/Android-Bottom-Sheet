@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Bottom Sheet</string>
+
+    <!-- fragment bottom sheet -->
+    <string name="mtv_accomplish">REALIZAR</string>
+    <string name="mtv_confirm_location">Confirme sua localização!</string>
+    <string name="mtv_guidance_botton">Antes de realizar a tarefa, por favor \n confirme sua localização de acordo com a \n localização informada abaixo:</string>
+    <string name="btn_send_confirm">CONFIRMAR</string>
+</resources>

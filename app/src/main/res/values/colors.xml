@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F96A0B</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <!-- color da Toolbar -->
+    <color name="colorTextToolbar">#707070</color>
+
+    <!-- colo burtto -->
+    <color name="colorButtonAcaoColorRed">#F96A0B</color>
+    <color name="colorButtonAcaoColorBlack">#3A3937</color>
+    <color name="colorButtonColor">#1A1818</color>
+    <color name="colortexTitle">#FFFFFF</color>
+
+    <!--- title Text View -->
+    <color name="colorTitleText">#3A3937</color>
+    <color name="colorTextView">#F96A0B</color>
+    <color name="colorSubTitleText">#707070</color>
+</resources>
